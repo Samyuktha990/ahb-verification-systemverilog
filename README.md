@@ -1,7 +1,7 @@
 # AHB-Lite Slave Verification in SystemVerilog
 
 ## Features
-- AHB-Lite compliant slave
+- AHB-Lite slave
 - Driver / Monitor / Scoreboard environment
 - Random and directed testing
 - Mailbox-based communication
