@@ -1,0 +1,8 @@
+work/
+transcript
+modelsim.ini
+*.wlf
+*.log
+*.jou
+*.pb
+*.vstf
