@@ -13,7 +13,7 @@ Run:
 
 ```tcl
 do sim/run.do
-=======
+
 # AHB-Lite Slave Verification in SystemVerilog
 
 ## Features
@@ -22,10 +22,3 @@ do sim/run.do
 - Random and directed testing
 - Mailbox-based communication
 - ModelSim simulation support
-
-## Simulation
-
-Run:
-
-```tcl
-do sim/run.do
